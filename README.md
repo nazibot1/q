@@ -1,2 +1,31 @@
 # Sparky
 A MultiFuctional Discord Bot 
+
+# Support
+<a href="https://discord.gg/h3pzAtc"><img src="https://discordapp.com/api/guilds/486356169590308874/widget.png?style=banner2" alt="Discord server"></a>
+
+# ![CI status](https://img.shields.io/hackage-deps/v/lens.svg)
+# ![CI status](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+## Current Version 
+1.0.0
+
+## Libary
+- **discord.js**
+
+## Author 
+Anish Shobith
+<a href="https://discord.gg/h3pzAtc"><img src="https://discordapp.com/api/users/259008949427109891/widget.png?style=banner2" alt="Discord server"></a>
+
+## Contributor
+iona dev
+
+# Self Hosting 
+
+We Currently Don't Support Hosting As The Bot Is Still Under Development 
+
+As Soon It Is Fully  Working One Previous Version Will Be Available For Self Hosting 
+
+Join The Discord Server For Support
+- 
+https://discord.gg/h3pzAt

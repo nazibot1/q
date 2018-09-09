@@ -1,0 +1,8 @@
+
+{
+	"prefix": "<your perfix>",
+	"token" : "<your token>",
+	"owner1" : "<first owner>",
+	"owner2" : "<second owner if none place the fisrt onwer id here>",
+	"red": "#b70000"
+}
