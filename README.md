@@ -4,7 +4,7 @@ A MultiFuctional Discord Bot
 # Support
 <a href="https://discord.gg/h3pzAtc"><img src="https://discordapp.com/api/guilds/486356169590308874/widget.png?style=banner2" alt="Discord server"></a>
 
-[![Discord Bots](https://discordbots.org/api/widget/status/486232921078890501.svg?longCache=true&style=for-the-badge)](https://discordbots.org/bot/486232921078890501)
+[![Discord Bots](https://discordbots.org/api/widget/status/486232921078890501.svg)](https://discordbots.org/bot/486232921078890501)
 
 # ![CI status](https://img.shields.io/hackage-deps/v/lens.svg)
 # ![CI status](https://img.shields.io/github/license/mashape/apistatus.svg)
