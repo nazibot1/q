@@ -4,7 +4,7 @@ A MultiFuctional Discord Bot
 # Support
 <a href="https://discord.gg/h3pzAtc"><img src="https://discordapp.com/api/guilds/486356169590308874/widget.png?style=banner2" alt="Discord server"></a>
 
-[![Discord Bots](https://img.shields.io/badge/style-for--the--badge-green.svg?longCache=true&style=for-the-badge)](https://discordbots.org/bot/486232921078890501)
+[![Discord Bots](https://discordbots.org/api/widget/status/486232921078890501.svg)](https://discordbots.org/bot/486232921078890501)
 
 # ![CI status](https://img.shields.io/hackage-deps/v/lens.svg)
 # ![CI status](https://img.shields.io/github/license/mashape/apistatus.svg)
@@ -16,7 +16,7 @@ A MultiFuctional Discord Bot
 - **discord.js**
 
 ## Author 
-Anish Shobith
+Anish Shobith-<img src="https://images.discordapp.net/avatars/259008949427109891/37bbe55e7c9ab578836530f214ff50d8.png?size=512">
 <a href="https://discord.gg/h3pzAtc"><img src="https://discordapp.com/api/users/259008949427109891/widget.png?style=banner2" alt="Discord server"></a>
 
 ## Contributor
