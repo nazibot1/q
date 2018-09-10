@@ -16,9 +16,7 @@ A MultiFuctional Discord Bot
 - **discord.js**
 
 ## Author 
-Anish Shobith-<img src="https://images.discordapp.net/avatars/259008949427109891/37bbe55e7c9ab578836530f214ff50d8.png?size=512">
-<a href="https://discord.gg/h3pzAtc"><img src="https://discordapp.com/api/users/259008949427109891/widget.png?style=banner2" alt="Discord server"></a>
-
+[![Discord Bots](https://discordbots.org/api/widget/users/259008949427109891)]
 ## Contributor
 iona dev
 
