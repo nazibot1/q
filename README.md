@@ -16,7 +16,8 @@ A MultiFuctional Discord Bot
 - **discord.js**
 
 ## Author 
-[![Discord Bots](https://discordbots.org/api/widget/users/259008949427109891)]
+[![Discord Bots](https://discordbots.org/api/widget/owner/259008949427109891.svg)]
+
 ## Contributor
 iona dev
 
